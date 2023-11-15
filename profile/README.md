@@ -1,1 +1,1 @@
-![PocketPill Poster](./poster.svg)
+![PocketPill Poster](./profile/poster.svg)
